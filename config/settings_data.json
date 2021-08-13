@@ -124,13 +124,23 @@
           "enable_image_zoom": true,
           "enable_video_looping": false
         }
+      },
+      "162887502254dde6e3": {
+        "type": "rich-text",
+        "settings": {
+          "full_width": true,
+          "section_title": "Feature Products",
+          "text": "",
+          "text_size": "medium"
+        }
       }
     },
     "content_for_index": [
       "hero-1",
+      "1628874068b757158c",
       "collection",
       "hero-2",
-      "1628874068b757158c"
+      "162887502254dde6e3"
     ]
   },
   "presets": {
