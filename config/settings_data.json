@@ -130,7 +130,7 @@
         "settings": {
           "full_width": true,
           "section_title": "Feature Products",
-          "text": "",
+          "text": "<p>Hot Deals.<\/p>",
           "text_size": "large"
         }
       }
