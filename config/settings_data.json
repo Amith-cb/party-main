@@ -131,16 +131,16 @@
           "full_width": true,
           "section_title": "Feature Products",
           "text": "",
-          "text_size": "medium"
+          "text_size": "large"
         }
       }
     },
     "content_for_index": [
       "hero-1",
+      "162887502254dde6e3",
       "1628874068b757158c",
       "collection",
-      "hero-2",
-      "162887502254dde6e3"
+      "hero-2"
     ]
   },
   "presets": {
