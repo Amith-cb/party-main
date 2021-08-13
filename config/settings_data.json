@@ -159,6 +159,19 @@
           "enable_image_zoom": true,
           "enable_video_looping": false
         }
+      },
+      "16288752690d13cc0c": {
+        "type": "featured-product",
+        "settings": {
+          "featured_product": "watch",
+          "show_quantity_selector": false,
+          "show_vendor": false,
+          "enable_payment_button": true,
+          "show_share_buttons": true,
+          "media_size": "medium",
+          "enable_image_zoom": true,
+          "enable_video_looping": false
+        }
       }
     },
     "content_for_index": [
@@ -166,9 +179,10 @@
       "162887502254dde6e3",
       "1628874068b757158c",
       "1628875086ca252a88",
+      "1628875221fb96b9f8",
+      "16288752690d13cc0c",
       "collection",
-      "hero-2",
-      "1628875221fb96b9f8"
+      "hero-2"
     ]
   },
   "presets": {
