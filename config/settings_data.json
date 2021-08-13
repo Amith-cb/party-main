@@ -41,43 +41,7 @@
       },
       "feature-columns": {
         "type": "feature-columns",
-        "blocks": {
-          "feature-columns-0": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "Add a title or tagline",
-              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "feature-columns-1": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "Add a title or tagline",
-              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
-          "feature-columns-2": {
-            "type": "text_block",
-            "settings": {
-              "enable_image": true,
-              "title": "Add a title or tagline",
-              "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-              "button_label": "",
-              "button_link": ""
-            }
-          }
-        },
-        "block_order": [
-          "feature-columns-0",
-          "feature-columns-1",
-          "feature-columns-2"
-        ],
+        "disabled": true,
         "settings": {
           "title": "",
           "align_text": "left"
@@ -87,7 +51,7 @@
         "type": "collection",
         "settings": {
           "title": "Featured collection",
-          "collection": "",
+          "collection": "party-items",
           "grid": 4,
           "rows": 2,
           "show_vendor": false,
@@ -210,7 +174,6 @@
     },
     "content_for_index": [
       "hero-1",
-      "feature-row",
       "feature-columns",
       "collection",
       "hero-2",
